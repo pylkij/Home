@@ -1,5 +1,5 @@
 ---
-title: Appliances
+title: Appliance
 nav_order: 1
 ---
 
